@@ -15,7 +15,7 @@
     "@tg-search/core": "workspace:*",
     "@unbird/logg": "catalog:",
     "es-toolkit": "^1.39.10",
-    "h3": "^1.15.4",
+    "h3": "^1.15.9",
     "listhen": "^1.9.0",
     "vite-node": "^3.2.4",
     "web-streams-polyfill": "^4.2.0"

@@ -15,7 +15,7 @@
     "@tg-search/server": "workspace:*",
     "@vueuse/core": "^13.7.0",
     "culori": "^4.0.2",
-    "defu": "^6.1.4",
+    "defu": "^6.1.5",
     "ofetch": "^1.4.1",
     "pako": "^2.1.0",
     "pinia": "^3.0.3",

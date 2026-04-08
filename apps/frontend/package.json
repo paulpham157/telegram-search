@@ -20,7 +20,7 @@
     "@tg-search/core": "workspace:^",
     "@tg-search/stage-ui": "workspace:^",
     "@vueuse/core": "^13.7.0",
-    "defu": "^6.1.4",
+    "defu": "^6.1.5",
     "ofetch": "^1.4.1",
     "pinia": "^3.0.3",
     "radix-vue": "^1.9.17",

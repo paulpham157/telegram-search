@@ -14,10 +14,10 @@
   "dependencies": {
     "@pnpm/find-workspace-dir": "^1000.1.2",
     "@unbird/logg": "catalog:",
-    "defu": "^6.1.4",
+    "defu": "^6.1.5",
     "path-browserify-esm": "^1.0.6",
     "pathe": "^2.0.3",
     "valibot": "^1.1.0",
-    "yaml": "^2.8.1"
+    "yaml": "^2.8.3"
   }
 }
